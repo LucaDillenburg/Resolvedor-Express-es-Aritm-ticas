@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"ExpressoesArit","l":"ExpressoesArit"},{"p":"fila","l":"Fila"},{"p":"matrizPolonesa","l":"MatrizPolonesa"},{"p":"pilha","l":"Pilha"},{"p":"<Unnamed>","l":"ResolvedorExpressoesAritmeticas"}]
